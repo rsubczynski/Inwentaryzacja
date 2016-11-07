@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="max_length_et_device_name">20</integer>
+    <integer name="max_length_et_data_stocktacking">20</integer>
+    <integer name="max_length_et_location">20</integer>
+    <integer name="max_length_et_stocktacking_person">20</integer>
+    <integer name="max_length_et_mark">20</integer>
+    <integer name="max_length_et_serial_number">20</integer>
+    <integer name="max_length_et_type_device">20</integer>
+    <integer name="max_length_et_model">20</integer>
+    <integer name="max_length_et_name">20</integer>
+    <integer name="max_length_et_email">20</integer>
+    <integer name="max_length_et_skype">20</integer>
+    <integer name="max_length_et_et_device_name">20</integer>
+    <integer name="max_length_et_file_name">20</integer>
+    <integer name="max_length_et_password">20</integer>
+    <integer name="max_length_et_search_items">20</integer>
+    <integer name="max_length_telephone_number">12</integer>
+</resources>

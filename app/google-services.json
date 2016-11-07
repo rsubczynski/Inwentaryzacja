@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "47295457451",
+    "firebase_url": "https://androihave.firebaseio.com",
+    "project_id": "androihave",
+    "storage_bucket": "androihave.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47295457451:android:d842af33038fad5c",
+        "android_client_info": {
+          "package_name": "info.androidhive.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47295457451-3ngopqav997k99e2g9q6f7j4blj361v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhqTvIZlhS-yarLNLfztSGJzrMANckZfM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47295457451:android:07a19b32b7d078fe",
+        "android_client_info": {
+          "package_name": "com.example.radek.inventaryzacja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47295457451-3ngopqav997k99e2g9q6f7j4blj361v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhqTvIZlhS-yarLNLfztSGJzrMANckZfM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
