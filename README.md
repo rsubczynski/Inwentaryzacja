@@ -8,7 +8,7 @@
 
 [Kosztorys](https://github.com/rsubczynski/Inwentaryzacja/blob/master/Doc/Kosztorys.odt)
 
-| Tables        | Are           |
+| Spis tresci        | Pliki           |
 | ------------- |:-------------:|
 | HLD      | [Opracowanie dokumentacji HLD](https://github.com/rsubczynski/Inwentaryzacja/blob/master/Doc/HLD.odt) |
 | LLD   | [Opracowanie dokumentacji LLD](https://github.com/rsubczynski/Inwentaryzacja/blob/master/Doc/LLD.odt) |
