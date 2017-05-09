@@ -1,13 +1,5 @@
 # Inwentaryzacja
 
-[Opracowanie dokumentacji HLD](https://github.com/rsubczynski/Inwentaryzacja/blob/master/Doc/HLD.odt)
-
-[Opracowanie dokumentacji LLD](https://github.com/rsubczynski/Inwentaryzacja/blob/master/Doc/LLD.odt)
-
-[Opracowanie dokumentacji wdrożeniowej](https://github.com/rsubczynski/Inwentaryzacja/blob/master/Doc/Doc%20wdro%C5%BCenia.odt)
-
-[Kosztorys](https://github.com/rsubczynski/Inwentaryzacja/blob/master/Doc/Kosztorys.odt)
-
 | Spis tresci        | Pliki           |
 | ------------- |:-------------:|
 | HLD      | [Opracowanie dokumentacji HLD](https://github.com/rsubczynski/Inwentaryzacja/blob/master/Doc/HLD.odt) |
